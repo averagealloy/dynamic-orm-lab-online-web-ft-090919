@@ -58,4 +58,6 @@ def self.find_by(hash)
   DB[:conn].execute(sql)
 
 end
+
+
 end
